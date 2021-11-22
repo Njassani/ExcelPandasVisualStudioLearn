@@ -24,3 +24,4 @@ df=pd.read_excel('modified3.xlsx')
 df.columns= ['Record#','Last', 'City', 'State', 'Pay', 'Rate%', 'Tax']
 print(list(df))
 
+print('this is test')
